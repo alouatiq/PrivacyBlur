@@ -1,4 +1,4 @@
-# SFCAM - Video Face Blurring
+# PrivacyBlur - Video Face Blurring
 
 ## Overview
 SFCAM is a Python-based project that processes videos to detect and blur people's faces for privacy protection. The project uses OpenCV's Haar Cascade to identify faces in video frames and applies Gaussian blur to anonymize them.

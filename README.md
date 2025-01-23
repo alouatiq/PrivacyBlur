@@ -23,7 +23,7 @@ SFCAM/
 1. Clone this repository:
    ```bash
    git clone https://github.com/aloautiq/PrivacyBlur.git
-   cd SFCAM
+   cd PrivacyBlur
    ```
 
 2. Install dependencies:

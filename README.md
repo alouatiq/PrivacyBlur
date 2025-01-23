@@ -22,7 +22,7 @@ SFCAM/
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/SFCAM.git
+   git clone https://github.com/aloautiq/PrivacyBlur.git
    cd SFCAM
    ```
 

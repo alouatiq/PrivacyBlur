@@ -5,7 +5,7 @@ SFCAM is a Python-based project that processes videos to detect and blur people'
 
 ## Project Structure
 ```
-SFCAM/
+PrivacyBlur/
 ├── input/               # Folder for input video files
 │   └── videos.mp4       # Example input video file
 ├── output/              # Folder for output video files
